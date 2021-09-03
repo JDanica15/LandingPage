@@ -18,20 +18,20 @@
 }
 
 .bright-red-bg {
-    color: hsl(12, 88%, 59%);
+    background: hsl(12, 88%, 59%);
 }
 .dark-blue-bg {
-    color: hsl(228, 39%, 23%);
+    background: hsl(228, 39%, 23%);
 }
 .dark-g-blue-bg {
-    color: hsl(227, 12%, 61%);
+    background: hsl(227, 12%, 61%);
 }
 .very-dark-blue-bg {
-    color: hsl(233, 12%, 13%);
+    background: hsl(233, 12%, 13%);
 }
 .very-pale-red-bg {
-    color: hsl(13, 100%, 96%);
+    background: hsl(13, 100%, 96%);
 }
 .very-light-gray-bg {
-    color: hsl(0, 0%, 98%);
+    background: hsl(0, 0%, 98%);
 }
