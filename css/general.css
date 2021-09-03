@@ -1,0 +1,37 @@
+.bright-red {
+    color: hsl(12, 88%, 59%);
+}
+.dark-blue {
+    color: hsl(228, 39%, 23%);
+}
+.dark-g-blue {
+    color: hsl(227, 12%, 61%);
+}
+.very-dark-blue {
+    color: hsl(233, 12%, 13%);
+}
+.very-pale-red {
+    color: hsl(13, 100%, 96%);
+}
+.very-light-gray {
+    color: hsl(0, 0%, 98%);
+}
+
+.bright-red-bg {
+    color: hsl(12, 88%, 59%);
+}
+.dark-blue-bg {
+    color: hsl(228, 39%, 23%);
+}
+.dark-g-blue-bg {
+    color: hsl(227, 12%, 61%);
+}
+.very-dark-blue-bg {
+    color: hsl(233, 12%, 13%);
+}
+.very-pale-red-bg {
+    color: hsl(13, 100%, 96%);
+}
+.very-light-gray-bg {
+    color: hsl(0, 0%, 98%);
+}
